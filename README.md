@@ -1,6 +1,6 @@
 Cześć 👋 Mam na imię Mateusz 
 
-Jestem młodszym testerem oprogramowania, przywiązującym dużą wagę do szczegółów. Lubię nowe wyzwania, które sprawiły, że chcę uczyć się coraz więcej w tej dziedzinie i codziennie doskonalić swoje umiejętności. 
+Jestem ambitnym i zdeterminowanym młodym testerem oprogramowania, poszukującym możliwości rozwinięcia swoich umiejętności w branży IT. Mam pasję do testowania, odkrywania błędów i wspierania procesu tworzenia oprogramowania, aby zapewnić najwyższą jakość produktu dla użytkowników końcowych. 
 
 🛠 Narzędzia testowe, z których korzystam:
 
