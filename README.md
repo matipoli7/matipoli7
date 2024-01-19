@@ -1,8 +1,8 @@
-Cześć 👋 Mam na imię Mateusz 
+Hi 👋 My name is Matthew. 
 
-Jestem ambitnym i zdeterminowanym młodym testerem oprogramowania, poszukującym możliwości rozwinięcia swoich umiejętności w branży IT. Mam pasję do testowania, odkrywania błędów i wspierania procesu tworzenia oprogramowania, aby zapewnić najwyższą jakość produktu dla użytkowników końcowych. 
+I am an ambitious and determined young software tester looking to develop my skills in the IT industry. I have a passion for testing, discovering bugs and supporting the software development process to ensure the highest quality product for end users. 
 
-🛠 Narzędzia testowe, z których korzystam:
+🛠 Test tools I use.:
 
 - ![image](https://github.com/matipoli7/matipoli7/assets/127092985/fcc5ee94-0052-4d06-99e0-992a61360adf)
 ![image](https://github.com/matipoli7/matipoli7/assets/127092985/f7c433fa-91ba-4615-b21e-471a99e036fc)
@@ -26,8 +26,6 @@ Jestem ambitnym i zdeterminowanym młodym testerem oprogramowania, poszukującym
 Połącz się ze mną
 
 ![image](https://github.com/matipoli7/matipoli7/assets/127092985/ef40e212-5f3b-4461-a95f-5217961c8471)
-  ![image](https://github.com/matipoli7/matipoli7/assets/127092985/3c6f17f3-60f1-4180-8f89-cd3fdd2e23be)
-  ![image](https://github.com/matipoli7/matipoli7/assets/127092985/516c9208-c8c0-4b70-96bf-7e75c2b0d1d1)
 
 
 <!---
